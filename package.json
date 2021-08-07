@@ -1,0 +1,33 @@
+{
+  "name": "platzi_asincronismo_js",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo en JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js",
+    "promise": "node src/promises/index.js",
+    "promise:challenge": "node src/promises/challenge.js",
+    "async": "node src/async/index.js",
+    "async:challenge": "node src/async/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esbejarano/Platzi_Asincronismo_JS.git"
+  },
+  "keywords": [
+    "Asincronismo",
+    "Javascript",
+    "platzi",
+    "curso"
+  ],
+  "author": "Erick Bejarano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esbejarano/Platzi_Asincronismo_JS/issues"
+  },
+  "homepage": "https://github.com/esbejarano/Platzi_Asincronismo_JS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
